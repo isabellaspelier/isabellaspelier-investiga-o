@@ -1,0 +1,11 @@
+EVIDÊNCIA 01 — REGISTRO DE ACESSO
+
+Data: 14/09/2026
+Horário: 18:42
+Computador: LAB-07
+
+Foi identificado um acesso ao sistema acadêmico às 18:42.
+
+O computador utilizado foi o LAB-07.
+
+Esse acesso chamou a atenção da equipe porque ocorreu fora do horário normal de utilização do laboratório.

@@ -1,0 +1,9 @@
+data,horario,usuario,computador,acao
+14/09/2026,16:05,Lucas Almeida,LAB-02,Login
+14/09/2026,16:32,Marina Costa,LAB-04,Login
+14/09/2026,17:10,Rafael Martins,ADM-01,Login
+14/09/2026,17:38,Gabriel Souza,LAB-07,Login
+14/09/2026,18:05,Gabriel Souza,LAB-07,Logout
+14/09/2026,18:42,Gabriel Souza,LAB-07,Acesso ao sistema
+14/09/2026,18:46,Sistema,LAB-07,Alteração de arquivo
+14/09/2026,18:51,Sistema,LAB-07,Encerramento da sessão
